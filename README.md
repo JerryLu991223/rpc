@@ -1,4 +1,1 @@
-# rpc
-# rpc
-
-RPC FRAMEWORK
+# RPC FRAMEWORK version 1 - easy example
