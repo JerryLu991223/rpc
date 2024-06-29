@@ -16,5 +16,12 @@ public class ConsumerExample {
         } else {
             System.out.printf(newUser.getName());
         }
+
+        /*
+        // 静态代理，只是写个test case，实际使用动态代理，更加灵活方便
+        UserService staticProxyUserService = new UserServiceProxy();
+        staticProxyUserService.getUser(user);
+         */
+
     }
 }
